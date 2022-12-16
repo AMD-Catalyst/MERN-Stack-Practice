@@ -1,0 +1,11 @@
+20221216	16:01:51	7e07b9af-cce6-465d-9b90-aba2e00cd4ea	Error: Not Allowed by CORS
+20221216	16:01:51	8c9170ca-af95-4865-818f-03fc7fc2ee0b	Error: Not Allowed by CORS
+20221216	16:06:13	d1c864d3-d8a7-4713-88d8-32ccf874f3d8	TypeError: path must be absolute or specify root to res.sendFile
+20221216	16:06:43	4b469fd1-dbd8-4616-9060-0015d42ecce1	TypeError: path must be absolute or specify root to res.sendFile
+20221216	16:06:54	a3dd9d54-0266-4833-86d2-e956adadb6ba	Error: Cannot find module 'ejs'
+Require stack:
+- E:\React JS Files\MERN Stack\server\node_modules\express\lib\view.js
+- E:\React JS Files\MERN Stack\server\node_modules\express\lib\application.js
+- E:\React JS Files\MERN Stack\server\node_modules\express\lib\express.js
+- E:\React JS Files\MERN Stack\server\node_modules\express\index.js
+- E:\React JS Files\MERN Stack\server\server.js
